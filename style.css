@@ -1,0 +1,69 @@
+body {
+	margin: 0;
+	font-family:Georgia;
+    background-color: rgb(188, 148, 226);
+}
+#logowanie {
+
+}
+
+
+
+#lewo{
+    float: left;
+    width: 15%;
+    height: 600px;
+    text-align: center;
+}
+
+#srodek{
+    float: left;
+    width: 65%;
+    height: 600px;
+    text-align: center;
+}
+
+#prawologowanie{
+    float: left;
+    width: 20%;
+    height: 600px;
+    text-align: center;
+}
+
+
+#baner2 {
+
+}
+
+h1{
+    text-align: center;
+    color: rgb(103, 6, 167);
+}
+
+
+#glowny {
+	background: #C8E6C9;
+	height: 600px;
+	overflow: scroll;
+	clear: both;
+}
+#stopka {
+	background: #00600F;
+	color: white;
+}
+h5 {
+	background: #00600F;
+	color: white;
+	font-size: 200%;
+	text-align: center;
+	margin: 0;
+}
+h2 {
+	text-align: right;
+}
+.produkt {
+	margin: 10px;
+	border: 1px solid #00600F;
+	width: 300px;
+	float: left;
+}
