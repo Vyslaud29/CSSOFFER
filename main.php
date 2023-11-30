@@ -13,26 +13,19 @@
         </h1>
     </header>
 
-    <div id="lewo">
-    <h1> </h1>
 
-
-     
-    
-
-    </div>
 
 
     <div id="srodek">
         
 
     <form method="post" action="">
-    <button type="submit" name="otworz1">Otwórz Skrzynię 1</button>
-    <button type="submit" name="otworz2">Otwórz Skrzynię 2</button>
-    <button type="submit" name="otworz3">Otwórz Skrzynię 3</button>
-    <button type="submit" name="otworz4">Otwórz Skrzynię 4</button>
-    <button type="submit" name="otworz5">Otwórz Skrzynię 5</button>
-    <button type="submit" name="otworz6">Otwórz Skrzynię 6</button>
+    <button type="submit" name="otworz1" id="otworz">EMS Katowice 2014 Legends</button>
+    <button type="submit" name="otworz2" id="otworz">EMS Katowice 2014 Challengers</button>
+    <button type="submit" name="otworz3" id="otworz">Otwórz Skrzynię 3</button>
+    <button type="submit" name="otworz4" id="otworz">Otwórz Skrzynię 4</button>
+    <button type="submit" name="otworz5" id="otworz">Otwórz Skrzynię 5</button>
+    <button type="submit" name="otworz6" id="otworz">Otwórz Skrzynię 6</button>
 </form>
 
     <?php 
@@ -216,7 +209,7 @@
 
 
     <div id="prawologowanie">
-        <h3><a href="logowanie.html">Zaloguj się</a></h3>
+        <h3><a href="logowanie.php">Zaloguj się</a></h3>
         <h3><a href="rejestracja.html">Zarejetruj się</a></h3>
     </div>
 </body>
